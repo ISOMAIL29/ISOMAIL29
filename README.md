@@ -1,5 +1,8 @@
-## Hi there 👋
+## Merhaba ben İsmail. 👋
 
+Merhaba ben İsmail.
+Katsamonu Üniversitesi Bilgisayar Programcılığı bölümünde okulumu devam ederken 
+aynı zamanda veri, web ve mobil uygulama geliştirme konularında becerılerımı geliştirmeye devam ediyorum.
 <!--
 **ISOMAIL29/ISOMAIL29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
